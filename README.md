@@ -56,7 +56,7 @@
 ## 🤝 Let’s Connect
 - 💼 LinkedIn: *(add your LinkedIn link here)*
 - 📧 Email: *(optional)*
-- 🌐 GitHub: https://github.com/your-username
+- 🌐 GitHub: https://github.com/sharifulcse18
 
 ---
 
